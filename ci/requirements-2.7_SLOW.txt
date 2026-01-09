@@ -23,3 +23,4 @@ beautiful-soup
 httplib2
 python-gflags
 google-api-python-client
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
